@@ -1,5 +1,4 @@
 
-
 function startClassification(){
 document.getElementById("1").innerHTML="<h5>detected dog - 0</h5>";
 document.getElementById("2").innerHTML="<h5>detected cat - 0</h5>";
